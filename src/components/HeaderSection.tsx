@@ -19,7 +19,7 @@ const HeaderSection = () => {
                 </div>
                 <div className="navbar-end hidden md:flex">
                     <ul className="flex flex-row gap-6 cursor-pointer">
-                        <li><a href="/" className="hover:text-[#FFB800] font-ppns text-base">HOME</a></li>
+                        <li><a href="/portfolio/" className="hover:text-[#FFB800] font-ppns text-base">HOME</a></li>
                         <li><a href="#about" className="hover:text-[#FFB800] font-ppns text-base">ABOUT</a></li>
                         <li><a href="#portfolio" className="hover:text-[#FFB800] font-ppns text-base">PORTFOLIO</a></li>
                         <li><a href="#contact" className="hover:text-[#FFB800] font-ppns text-base">CONTACT</a></li>
