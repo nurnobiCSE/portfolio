@@ -1,5 +1,5 @@
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome"
-import { faInstagram, faFacebook, faGithub, faLinkedinIn } from '@fortawesome/free-brands-svg-icons';
+import { faFacebook, faGithub, faLinkedinIn } from '@fortawesome/free-brands-svg-icons';
 
 const myFacebook = "https://www.facebook.com/nurnobi.cse";
 const myLinkedin = "https://www.linkedin.com/in/nurnobicse";
