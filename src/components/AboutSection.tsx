@@ -3,7 +3,7 @@ const AboutSection = () => {
         <div id="about" className="flex flex-col md:flex-row gap-14 justify-center items-center mx-auto md:mt-40 ">
             {/* image */}
 
-            <img className="md:w-96 md:h-[440px] w-72 h-96" src="images/profile/nur.png" alt="" />
+            <img className="md:w-96 md:h-[440px] w-72 h-96 rounded-lg" src="images/profile/nur.jpg" alt="" />
 
             {/* about me */}
             <div>
