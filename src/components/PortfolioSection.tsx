@@ -46,6 +46,15 @@ const PortfolioSection = () => {
                         </div>
                     </a>
                 </div>
+                <div className="relative bg-black w-72 shadow shadow-slate-400 rounded-md">
+                    <p className="absolute items-end inset-0 pb-4 flex justify-center text-[#FFB800] text-xl font-ppns font-bold hover:hidden">E-Service Portaal</p>
+                    <a href="https://nurnobicse.github.io/service-portal/" target="_blank" className="block hover:opacity-30">
+                        <img src="images/portfolio/eservice.png" alt="Your Image" className="w-72 h-auto rounded-md" />
+                        <div className="absolute inset-0 flex items-center justify-center md:opacity-0 opacity-100 hover:opacity-100 transition-opacity duration-300">
+                            <FontAwesomeIcon icon={faLink} className="text-4xl text-white" />
+                        </div>
+                    </a>
+                </div>
 
             </div>
         </div>
